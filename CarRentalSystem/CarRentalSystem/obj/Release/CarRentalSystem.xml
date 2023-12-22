@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CarRentalSystem
+</name>
+</assembly>
+<members>
+<member name="T:CarRentalSystem.My.Resources.Resources">
+<summary>
+  Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.Culture">
+<summary>
+  Remplace la propriété CurrentUICulture du thread actuel pour toutes
+  les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources._1473103359">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources._4b1d63a10d8b7155598bdda1e71c6319_removebg_preview">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.car_rental_sign_logo_849855CB05_seeklogo_com">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.carte_grise_marque_voiture_removebg_preview">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.customer_customer_icon_146530250">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.téléchargement">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.téléchargement_removebg_preview">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.téléchargement_removebg_preview__1_">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:CarRentalSystem.My.Resources.Resources.téléchargement1">
+<summary>
+  Recherche une ressource localisée de type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>
